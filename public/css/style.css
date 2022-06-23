@@ -41,6 +41,14 @@ body{
     float: left;
     clear: both;
 }
+.starter{
+    text-align: center;
+    clear:both;
+    color: #187498;;
+    margin: 7px;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .center
 {
     text-align: center;
