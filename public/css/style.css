@@ -45,6 +45,8 @@ body{
 {
     text-align: center;
     clear:both;
+    color: blue;
+    margin: 7px;
     font-weight: 900;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
